@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/personal-assistant-app/static/css/main.b0f458b0.chunk.css",
+    "main.js": "/personal-assistant-app/static/js/main.91155370.chunk.js",
+    "main.js.map": "/personal-assistant-app/static/js/main.91155370.chunk.js.map",
+    "runtime-main.js": "/personal-assistant-app/static/js/runtime-main.fe480bfc.js",
+    "runtime-main.js.map": "/personal-assistant-app/static/js/runtime-main.fe480bfc.js.map",
+    "static/css/2.77ad079f.chunk.css": "/personal-assistant-app/static/css/2.77ad079f.chunk.css",
+    "static/js/2.190c3794.chunk.js": "/personal-assistant-app/static/js/2.190c3794.chunk.js",
+    "static/js/2.190c3794.chunk.js.map": "/personal-assistant-app/static/js/2.190c3794.chunk.js.map",
+    "index.html": "/personal-assistant-app/index.html",
+    "precache-manifest.94f2332c8fe4f9226010afa0da62341e.js": "/personal-assistant-app/precache-manifest.94f2332c8fe4f9226010afa0da62341e.js",
+    "service-worker.js": "/personal-assistant-app/service-worker.js",
+    "static/css/2.77ad079f.chunk.css.map": "/personal-assistant-app/static/css/2.77ad079f.chunk.css.map",
+    "static/css/main.b0f458b0.chunk.css.map": "/personal-assistant-app/static/css/main.b0f458b0.chunk.css.map",
+    "static/js/2.190c3794.chunk.js.LICENSE.txt": "/personal-assistant-app/static/js/2.190c3794.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe480bfc.js",
+    "static/css/2.77ad079f.chunk.css",
+    "static/js/2.190c3794.chunk.js",
+    "static/css/main.b0f458b0.chunk.css",
+    "static/js/main.91155370.chunk.js"
+  ]
+}
